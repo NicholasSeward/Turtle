@@ -5,7 +5,7 @@ This page is dedicated to a custom Java class for drawing [turtle graphics](http
 [Tutorial](https://en.wikipedia.org/wiki/Turtle_graphics)
 [Lessons](https://sites.google.com/a/asmsa.org/java-turtle/tutorial)
 
-![Square Spiral](squareSpiral.png)
+![Square Spiral](squareSpiral.jpg)
 
 SquareSpiral.java
 ```
